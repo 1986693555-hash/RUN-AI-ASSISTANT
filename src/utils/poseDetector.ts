@@ -1,4 +1,4 @@
-import { Pose, PoseOptions, Results } from '@mediapipe/pose';
+import { Pose, Options as PoseOptions, Results } from '@mediapipe/pose';
 
 export class PoseDetector {
     private pose: Pose;
